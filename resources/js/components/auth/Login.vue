@@ -8,7 +8,7 @@
                             <div class="">
                                 <form class="form" data-vv-scope="form_registro">
                                     <h4 class="text-center">
-                                    <img :src="$baseUrlVue('img/logo/inei_logo.png')"  height="80" class="logo-admin" alt="">
+                                    <img :src="$baseUrlVue('img/logo/inei_logo.png')"  height="120" class="logo-admin" alt="">
                                     </h4>
                                     <br>
                                     <div class="form-group">
