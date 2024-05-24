@@ -1,0 +1,30 @@
+// Body
+$body-bg: #f8fafc;
+// Typography
+$font-family-sans-serif: 'Nunito',
+sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+//Colors System
+$color-basico-1: #F1E3FA;
+$color-basico-2: #17b4cf;
+$color-basico-3: #fdc134;
+$color-basico-4: rgb(197,158,226);
+$color-basico-5: rgb(128,0,128);
+$color-basico-6: rgb(251,229,214);
+// Colors
+//$blue: #3490dc;
+$blue: #00000d;
+$indigo: #6574cd;
+$purple: #9561e2;
+$pink: #f66d9b;
+$red: #e3342f;
+$orange: #fdc134;
+$yellow: #ffed4a;
+$green: #38c172;
+$teal: #4dc0b5;
+$cyan: #6cb2eb;
+$bd-purple: #563d7c !default;
+
+$bd-purple-bright: lighten(saturate($bd-purple, 5%), 15%) !default;
+$bd-purple-light : lighten(saturate($bd-purple, 5%), 45%) !default;

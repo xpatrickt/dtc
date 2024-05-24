@@ -1,0 +1,19 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+// Variables
+@import 'variables';
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins/_breakpoints";
+@import 'sidebar';
+//plugins
+//Componntes
+@import "~vue-multiselect/dist/vue-multiselect.min.css";
+@import "~vue-loading-overlay/dist/vue-loading.css";
+@import '~element-ui/lib/theme-chalk/index.css';
+@import '~trumbowyg/dist/ui/trumbowyg.css';
+@import '@fortawesome/fontawesome-free/css/all.css';
+//personal
+@import 'style';
