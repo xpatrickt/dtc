@@ -1,6 +1,6 @@
-# gestion_santa_rosa
+# drtc
 
-git clone https://github.com/franklinvillegas/gestion_santa_rosa.gitt
+git clone https://github.com/xpatrickt/dtc.git
 
 composer install (composer update)
 
