@@ -42,7 +42,7 @@
                             <div class="card-header p-0" id="headingOne">
                                 <h6 class="mb-0">
                                     <button class="btn btn-light w-100 text-left font-weight-bold p-menu" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne" style="font-size:20px;">
-                                        <i class="fa fa-indent w-ico me-3"></i>CONVOCATORIA
+                                        <i class="fa fa-indent w-ico me-3"></i>PROGRAMACIÓN
                                     </button>
                                 </h6>
                             </div>
@@ -57,12 +57,12 @@
                                     
                                     <li class="mb-1" v-if="validarPermisos(1)">
                                         <a class="nav-link" href="#"  @click.prevent="redireccionar('RecepcionCV')">
-                                            <i class="fas fa-tag me-3"></i>Recepción CV
+                                            <i class="fas fa-tag me-3"></i>Proyecto
                                         </a>
                                     </li>
                                     <li class="mb-1" v-if="validarPermisos(1)">
                                         <a class="nav-link" href="#"  @click.prevent="redireccionar('Grado')">
-                                            <i class="fas fa-tag me-3"></i>Reporte de Recepción
+                                            <i class="fas fa-tag me-3"></i>Actividades
                                         </a>
                                     </li>
                                 </ul>
